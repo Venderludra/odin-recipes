@@ -1,0 +1,37 @@
+/* * {
+    outline: 2px solid red;
+} */
+
+body {
+    background-color : #2E8A99;
+}
+
+h1 {
+    margin : auto;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.list-container {
+    display: flex;
+    list-style: none;
+}
+
+li {
+    background-color : silver;
+    margin-left : 65px;
+    color : black;
+    border: 2px solid black;
+}
+
+.list-container a:hover {
+    background-color: pink;
+    color : white;
+}
+
+.list-container a {
+    color: black;
+    text-decoration : none;
+}
+
+

@@ -1,0 +1,25 @@
+body {
+    background-color: #2E8A99;
+    font-size: 16px;
+}
+
+#return-button {
+    border : 2px solid #2E8A99;
+    text-decoration: none;
+    color: black;
+    background-color: #1F6E8C;
+    padding: 5px;
+}
+
+.main-heading {
+    text-align : center;
+}
+
+img {
+    margin-left: 250px;
+    border : 2px solid #1F6E8C;
+}
+
+h1,h4 {
+    font-family : impact;
+}
